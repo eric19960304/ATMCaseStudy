@@ -1,10 +1,13 @@
 # ATMCaseStudy
-PolyU HKCC CCN2242 Object Oriented Programming (Sept 2015)
-Project
+PolyU HKCC CCN2242 Object Oriented Programming (Sept 2015) Project
 
-To compile, plz use the command: javac ATMCaseStudy.java
+To compile, plz use the command:
 
-To run the project, plz use the command: java ATMCaseStudy
+javac ATMCaseStudy.java
+
+To run the project, plz use the command:
+
+java ATMCaseStudy
 
 Assumption:
 
@@ -12,12 +15,16 @@ The account number consists 7 digits, the first 5 digits are used to identify th
 
 Demo Accounts (hardcoded):
 
+
 Account number: 1234501
+
 PIN: 54321
 
 Account number: 1234502
+
 PIN: 54321
 
 Account number: 9876501
+
 PIN: 56789
 
