@@ -1,5 +1,6 @@
 # ATMCaseStudy
-Object oriented programming project
+PolyU HKCC CCN2242 Object Oriented Programming (Sept 2015)
+Project
 
 To compile, plz use the command: javac ATMCaseStudy.java
 
