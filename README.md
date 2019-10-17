@@ -1,5 +1,4 @@
 # ATMCaseStudy
-PolyU HKCC CCN2242 Object Oriented Programming (Sept 2015) Project
 
 To compile, plz use the command:
 
